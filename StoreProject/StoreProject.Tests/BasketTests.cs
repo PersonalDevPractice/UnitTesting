@@ -6,7 +6,7 @@ namespace StoreProject.Tests
     public class BasketTests
     {
         [TestMethod]
-        public void THappy_Path()
+        public void Happy_Path()
         {
         }
     }
