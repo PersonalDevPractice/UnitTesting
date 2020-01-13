@@ -6,3 +6,11 @@ StoreProject/StoreProject.Tests/obj/StoreProject.Tests.csproj.nuget.g.props
 *.txt
 *.props
 *.ide-wal
+*.pdb
+*.cache
+StoreProject/StoreProject/obj/Debug/netcoreapp3.0/StoreProject.csprojAssemblyReference.cache
+*.exe
+*.json
+*.cache
+*.ide-wal
+StoreProject/.vs/StoreProject/v16/.suo

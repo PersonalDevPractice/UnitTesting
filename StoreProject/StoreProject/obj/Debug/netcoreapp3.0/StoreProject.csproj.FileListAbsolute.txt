@@ -4,3 +4,11 @@
 \\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\obj\Debug\netcoreapp3.0\StoreProject.AssemblyInfo.cs
 \\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\bin\Debug\netcoreapp3.0\RestSharp.dll
 \\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\obj\Debug\netcoreapp3.0\StoreProject.csproj.CopyComplete
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\bin\Debug\netcoreapp3.0\StoreProject.deps.json
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\bin\Debug\netcoreapp3.0\StoreProject.runtimeconfig.json
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\bin\Debug\netcoreapp3.0\StoreProject.runtimeconfig.dev.json
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\bin\Debug\netcoreapp3.0\StoreProject.dll
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\bin\Debug\netcoreapp3.0\StoreProject.pdb
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\obj\Debug\netcoreapp3.0\StoreProject.dll
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\obj\Debug\netcoreapp3.0\StoreProject.pdb
