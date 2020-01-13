@@ -5,3 +5,4 @@ StoreProject/StoreProject.Tests/obj/StoreProject.Tests.csproj.nuget.g.props
 StoreProject/StoreProject.Tests/obj/StoreProject.Tests.csproj.nuget.g.props
 *.txt
 *.props
+*.ide-wal

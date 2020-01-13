@@ -5,8 +5,14 @@ namespace StoreProject.Tests
     [TestClass]
     public class CheckoutTests
     {
+        [TestInitialize]
+        public void TestInitialize()
+        {
+
+        }
+
         [TestMethod]
-        public void TestMethod1()
+        public void Happy_Path()
         {
         }
     }
