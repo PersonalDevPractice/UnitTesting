@@ -6,5 +6,8 @@ namespace StoreProject.models
 {
     public interface IProduct
     {
+        string name { get; set; }
+        string price { get; set; }
+        string category { get; set; }
     }
 }

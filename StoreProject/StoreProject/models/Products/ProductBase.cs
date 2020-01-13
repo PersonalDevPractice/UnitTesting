@@ -4,7 +4,18 @@ using System.Text;
 
 namespace StoreProject.models
 {
-    public class ProductBase
+    public abstract class ProductBase : IProduct
     {
+        public string name { get; set; }
+        public string price { get; set; }
+        public string category { get; set; }
+        public string size { get; set; }
+
+        protected ProductBase(string name, string price, string size)
+        {
+            this.name = name;
+            this.price = price;
+            this.size = size;
+        }
     }
 }

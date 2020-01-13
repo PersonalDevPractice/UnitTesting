@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\bin\Debug\netcoreapp3.0\StoreProject.exe
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\obj\Debug\netcoreapp3.0\StoreProject.csprojAssemblyReference.cache
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\obj\Debug\netcoreapp3.0\StoreProject.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\obj\Debug\netcoreapp3.0\StoreProject.AssemblyInfo.cs
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\bin\Debug\netcoreapp3.0\RestSharp.dll
+\\Mac\Home\Documents\GitHub\UnitTesting\StoreProject\StoreProject\obj\Debug\netcoreapp3.0\StoreProject.csproj.CopyComplete
